@@ -4,7 +4,7 @@ This is a web-based application developed to help users track their daily health
 
 **HabitQuest** is an advanced, gamified Progressive Web Application (PWA) designed to make building healthy habits fun and engaging. It combines real-time activity tracking, custom background alarms, mind games, and AI-simulated features to provide a complete wellness ecosystem.
 
-**Developed with ❤️ by Team Junun**
+**Developed with ❤️ Laxman Kuber & Team Junun**
 
 ---
 
